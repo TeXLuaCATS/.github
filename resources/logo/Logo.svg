@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="276.952mm"
-   height="256.52991mm"
-   viewBox="0 0 276.952 256.52991"
+   width="250.42316mm"
+   height="250.42258mm"
+   viewBox="0 0 250.42316 250.42258"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70614949"
-     inkscape:cx="1193.7982"
-     inkscape:cy="489.27317"
+     inkscape:cx="1108.8304"
+     inkscape:cy="466.61508"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
+     inkscape:current-layer="svg1" /><defs
      id="defs1"><marker
        id="ArrowEnd"
        viewBox="0 0 10 10"
@@ -56,7 +56,7 @@
      inkscape:label="Lua-Logo"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(74.559078,-21.875146)"><g
+     transform="translate(51.921997,-27.98246)"><g
        id="g7"
        transform="matrix(0.26458333,0,0,0.26458333,-51.990914,27.912772)">
 	<path
@@ -67,10 +67,7 @@
    fill="#ffffff"
    d="m 740.82905,302.35804 c 0,-58.5 -47.5,-106 -106,-106 -58.5,0 -106,47.5 -106,106 0,58.5 47.5,106 106,106 58.5,0 106,-47.5 106,-106"
    id="path2" />
-	<path
-   fill="#000080"
-   d="m 941.5,111.5 c 0,-58.5 -47.5,-106 -106,-106 -58.5,0 -106,47.5 -106,106 0,58.5 47.5,106 106,106 58.5,0 106,-47.4 106,-106"
-   id="path3" />
+	
 	<g
    id="g6"
    inkscape:label="Lua"
@@ -102,7 +99,7 @@
    id="path7" />
 </g></g><g
      id="g12"
-     transform="matrix(4.0210747,0,0,4.0210747,58.076111,116.33522)"
+     transform="matrix(4.0210747,0,0,4.0210747,35.43903,110.22791)"
      inkscape:label="TeX-Logo"
      style="fill:#ffffff"><path
        style="fill:#ffffff;stroke:none"
@@ -118,7 +115,7 @@
        id="path18"
        inkscape:label="X" /></g><g
      id="g1"
-     transform="matrix(1.7945233,0,0,1.7945233,212.34724,-0.00306123)"
+     transform="matrix(1.7008711,0,0,1.7008711,187.46196,3.2568984)"
      inkscape:label="CAT"><path
        fill="#ffcc4d"
        d="M 35.734,19.929 C 35.375,16.66 35,15 34,13 34,13 37,4 35,0.3 34.326,-0.946 27.596,1.988 25,4 25,4 21,3.002 18,3.002 15,3.002 11,4 11,4 8.404,1.988 1.674,-0.946 1,0.3 -1,4 2,13 2,13 1,15 0.625,16.66 0.266,19.929 -0.129,23.513 0.657,26.37 1,27 c 0.39,0.716 2.367,3.025 5,5 4,3 10,4 12,4 2,0 8,-1 12,-4 2.633,-1.975 4.61,-4.284 5,-5 0.343,-0.63 1.129,-3.487 0.734,-7.071 z"
